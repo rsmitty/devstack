@@ -1,0 +1,4 @@
+SB_USER=pi         #$RUN_AS, username to run sickbeard under, the default is sickbeard
+SB_HOME=/home/pi/.sickbeard         #$APP_PATH, the location of SickBeard.py, the default is /opt/sickbeard
+SB_DATA=/home/pi/.sickbeard         #$DATA_DIR, the location of sickbeard.db, cache, logs, the default is /opt/sickbeard
+
